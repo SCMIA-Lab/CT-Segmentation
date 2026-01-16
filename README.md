@@ -62,7 +62,7 @@ TotalSegmentator --help
 ```
 Run the GUI
 ```bash
-python main.py
+python app.py
 ```
 ### How to Use
 
